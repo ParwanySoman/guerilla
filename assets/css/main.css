@@ -2810,7 +2810,7 @@ input, select, textarea {
 				}
 
 			#header header p {
-				color: #656b66;
+				color: black;
 				font-weight: 700;
 				margin: 1.5em 0 0 0;
 			}
@@ -2849,7 +2849,7 @@ input, select, textarea {
 
 		#footer footer {
 			bottom: 2em;
-			color: rgba(255, 255, 255, 0.5);
+			color: black;
 			left: 0;
 			position: absolute;
 			text-align: center;
@@ -2857,7 +2857,7 @@ input, select, textarea {
 		}
 
 			#footer footer h1, #footer footer h2, #footer footer h3, #footer footer h4, #footer footer h5, #footer footer h6, #footer footer strong, #footer footer b {
-				color: #ffffff;
+				color: black;
 			}
 
 			#footer footer a {
@@ -2865,7 +2865,7 @@ input, select, textarea {
 			}
 
 				#footer footer a:hover {
-					color: #ffffff !important;
+					color: black !important;
 				}
 
 			#footer footer .copyright {
