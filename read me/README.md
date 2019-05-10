@@ -8,10 +8,6 @@
 I used a template to remake the site. It is easier and handy to work with, because everything is already set up for you. You only need to change the content or add some things if you would like.
 
 
-## PRICE
-I would ask €300,- for the remake of the website. First of all because it is a template that I used. So most of the work was actually done. But I also worked on it for a whole day. And not to forget there will be added taxes! Some things I had to look up, because not every idea I had in mind would work. 
-
-
 ## CURRENT PROBLEMS & IMPROVEMENTS
 
 - If you take a look at the site and you scroll all the way down, you will see that you can continue scrolling down, but there won't be anything to read or see. She also didn't use a footer. So I added a footer how to contact her.
@@ -35,6 +31,9 @@ If I had more time I would've add maybe a picture or a logo she uses. Or the fac
     • CSS:	
 		- I didn’t use CSS a lot, I only used it for the color of the texts, because its a 3000 long code and I couldn’t find my way through. 
 
+
+## PRICE
+I would ask €300,- for the remake of the website. First of all because it is a template that I used. So most of the work was actually done. But I also worked on it for a whole day. And not to forget there will be added taxes! Some things I had to look up, because not every idea I had in mind would work. 
 
 ## READ ME:
 It is not finished yet. 
