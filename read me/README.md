@@ -9,7 +9,7 @@ I used a template to make the remake of the site. It is easier and handy to work
 
 
 ## PRICE
-I would ask €250,- for the remake of the website. First of all because it is a template that I used. So most of the work was actually done. But I also worked on it for a whole day. Some things I had to look up, because not every idea I had in mind would work. 
+I would ask €300,- for the remake of the website. First of all because it is a template that I used. So most of the work was actually done. But I also worked on it for a whole day. Also, not to forget there will be added taxes! Some things I had to look up, because not every idea I had in mind would work. 
 
 
 ## CURRENT PROBLEMS & IMPROVEMENTS
