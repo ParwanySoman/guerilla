@@ -14,7 +14,7 @@ I would ask €250,- for the remake of the website. First of all because it is a
 
 ## CURRENT PROBLEMS & IMPROVEMENTS
 
-- If you take a look at the site and you scroll all the way down, you will see that you can scroll down, but there won't be anything to read or see. She also didn't use a footer. So I added a footer how to contact her.
+- If you take a look at the site and you scroll all the way down, you will see that you can continue scrolling down, but there won't be anything to read or see. She also didn't use a footer. So I added a footer how to contact her.
     
 - She put some information on the wrong place. For example she didn’t had to say much about herself so she could easily put that information on the first page. So what I did was copy information from two different sections and put them in one container. 
   
