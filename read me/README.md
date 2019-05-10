@@ -18,7 +18,7 @@ I would ask €250,- for the remake of the website. First of all because it is a
     
 - She put some information on the wrong place. For example she didn’t had to say much about herself so she could easily put that information on the first page. So what I did was copy information from two different sections and put them in one container. 
   
-- Also on the section of “tarieven” if you scroll down, you can see that her text overlaps the information on the picture. She also leaves two rows without content, it doesn’t make sense, because why not delete the rows so it looks more clean. What I did to improve it: I took a screenshot and change the color with Shotwell Photo Viewer. I also cropped the part where the text  would overlaps the information. I had not enough time to delete the rows. Everything important I put in one container called "information".
+- Also in the section of “tarieven” if you scroll down, you can see that her text overlaps the information on the picture. She also leaves two rows without content, it doesn’t make sense, because why not delete the rows so it looks more clean. What I did to improve it: I took a screenshot and change the color with Shotwell Photo Viewer. I also cropped the part where the text  would overlaps the information. I had not enough time to delete the rows. Everything important I put in one container called "information".
 
 - I also didn’t like the lay out. Because she wrote she is a professional hair dresser, so you have to see that in her site too. So I used a template called Highlight, but I changed the background with something that would match her work, in a professional way. 
 
