@@ -30,9 +30,7 @@ If I had more time I would've add maybe a picture or a logo she uses. Or the fac
 
     • HTML:
 
-        - I used images, with the <img> tag. I also changed the width and height.
-        - I added a background image in the body. 
-		- I added an unordered list on the footer.
+        - The only thing I added in the HTML file were the background image in the body, images and an unordered list in the footer. 
 
     • CSS:	
 		- I didn’t use CSS a lot, I only used it for the color of the texts, because its a 3000 long code and I couldn’t find my way through. 
