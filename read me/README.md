@@ -5,7 +5,7 @@
 
 ## WHAT DID I USE:
 
-I used a template to make the remake of the site. It is easier and handy to work with, because everything is already set up for you. You only need to change the content or add some things if you would like.
+I used a template to remake of the site. It is easier and handy to work with, because everything is already set up for you. You only need to change the content or add some things if you would like.
 
 
 ## PRICE
